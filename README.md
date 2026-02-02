@@ -20,3 +20,6 @@ json
 {
   "api_key": "DEIN_VIRUSTOTAL_KEY_HIER"
 }
+
+
+sudo python3 main.py
