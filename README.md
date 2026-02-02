@@ -11,6 +11,12 @@ Stelle sicher, dass die .mmdb-Dateien (z.B. GeoLite2-City.mmdb) dort abgelegt si
 ⚖️ Rechtlicher Hinweis
 Dieses Produkt enthält GeoLite2-Daten von MaxMind, die unter https://www.maxmind.com verfügbar sind. 
 
+Traceroute mit GeoIP-Visualisierung
+Dieses Projekt nutzt traceroute (oder tracert), um den Netzwerkpfad zu einem Ziel zu verfolgen, und reichert die gefundenen Hops mit geografischen Daten der MaxMind GeoLite2-Datenbank an. 
+Voraussetzungen
+Um geografische Informationen (Stadt, Land, Koordinaten) für die IP-Adressen anzuzeigen, benötigst du die GeoLite2-Datenbank. Da diese unter einer speziellen Lizenz steht, muss sie manuell bezogen werden. 
+1. GeoLite2 Datenbank herunterladen
+
 🛡️ VirusTotal Integration
 Für die Sicherheitsanalyse von IP-Adressen und Dateien benötigt das Tool einen API-Key von VirusTotal.
 Key erhalten: Registriere dich kostenlos bei VirusTotal Community, um deinen persönlichen API-Key in deinem Profil zu finden.
