@@ -29,3 +29,8 @@ json
 
 
 sudo python3 main.py
+
+.....................................
+export MOZ_ENABLE_WAYLAND=0
+python3 main.py
+....................................
